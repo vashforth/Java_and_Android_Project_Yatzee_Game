@@ -22,5 +22,9 @@ I successfully managed to meet all of my objectives. I spent a lot of time testi
 
 My main activity page could benefit from more refactoring including transferring game logic to my Java models so that the activity page includes only front end code only. 
 
+## Screenshots
 
-![Screenshot](https://github.com/vashforth/Java_and_Android_Project_Yatzee_Game/blob/master/yatzee_screenshot.png)    ![Screenshot](https://github.com/vashforth/Java_and_Android_Project_Yatzee_Game/blob/master/winning_msg_screenshot.png)
+#### &nbsp; &nbsp; &nbsp; Yatzee Toast &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Winning Message
+&nbsp; &nbsp; &nbsp; ![Screenshot](https://github.com/vashforth/Java_and_Android_Project_Yatzee_Game/blob/master/yatzee_screenshot.png)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+![Screenshot](https://github.com/vashforth/Java_and_Android_Project_Yatzee_Game/blob/master/winning_msg_screenshot.png)
